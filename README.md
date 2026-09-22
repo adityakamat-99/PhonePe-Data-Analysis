@@ -19,10 +19,10 @@ This project analyzes the transaction and user registration data of PhonePe acro
 
 ## 📊 Interactive Dashboard
 ![Dashboard Preview]
-Images/Phone Pe Executive Performance Overview.png
-Images/Phone Pe District Demographic Deep Dive.png
-Images/Phone Pe Transaction Category Dynamics.png
-Images/Phone Pe Device Adoption and Tech Ecosystem.png
+`Images/Phone Pe Executive Performance Overview.png`
+`Images/Phone Pe District Demographic Deep Dive.png`
+`Images/Phone Pe Transaction Category Dynamics.png`
+`Images/Phone Pe Device Adoption and Tech Ecosystem.png`
 *An executive-level Power BI dashboard showcasing cumulative platform performance, transaction category dynamics, demographic breakdowns, and device adoption trends from 2018 to 2021.*
 
 
